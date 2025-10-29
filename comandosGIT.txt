@@ -27,9 +27,6 @@ git pull origin main
 
 * git reset --hard <ID do comit anterior> -> apaga o comit
 
-<<<<<<< HEAD
 * git commit --amend - m "nova mensagem" -> alterar a mensagem do commit anterior
 
-=======
->>>>>>> 6200bdd95c921d0310e271f48c8e54cf730f394c
 * 
